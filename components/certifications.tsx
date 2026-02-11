@@ -17,21 +17,21 @@ const certifications = [
     issuer: "Sheryians Coding School",
     year: "2024",
     image:
-      "https://drive.google.com/file/d/1yPmXhF2vtL5SdlRpU8c4dWpOPC14X0UJ/view?usp=sharing",
+      "https://ak-portfolio-images.s3.ap-south-1.amazonaws.com/Frontend-Domination-Certificate.jpg",
   },
   // {
   //   title: "React - The Complete Guide 2025",
   //   issuer: "Udemy",
   //   year: "2024",
   //   image:
-  //     "https://udemy-certificate.s3.amazonaws.com/image/UC-f285a903-1775-4ace-a112-ad81bc02fb53.jpg?v=1742661571000",
+  //     "https://udemy-certificate.s3.amazonaws.com/",
   // },
   // {
   //   title: "Laravel 11",
   //   issuer: "Udemy",
   //   year: "2025",
   //   image:
-  //     "https://udemy-certificate.s3.amazonaws.com/image/UC-2c908eb8-0f43-421e-808c-015553b02549.jpg?v=1753800192000",
+  //     "https://udemy-certificate.s3.amazonaws.com/",
   // },
 ];
 
