@@ -1,7 +1,6 @@
 # 🌐 Developer Portfolio – Next.js Personal Website
 
-🚀 **Live Site:** https://v2-portfolio-navy.vercel.app/
-📂 **Repository:** https://github.com/Omkarkumbhar47/v2_portfolio
+🚀 **Live Site:** https://omkar-dev-portfolio.vercel.app
 👨‍💻 **Author:** Omkar Kumbhar
 
 ---
@@ -72,20 +71,9 @@ This portfolio is designed to:
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/Omkarkumbhar47/v2_portfolio.git
-cd v2_portfolio
-npm install
-npm run dev
-```
-
----
-
 ## 🔗 Live Website
 
-https://v2-portfolio-navy.vercel.app/
+https://omkar-dev-portfolio.vercel.app
 
 ---
 
