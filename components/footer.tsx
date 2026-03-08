@@ -13,12 +13,12 @@ const socialLinks = [
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/omkar-kumbhar-291168259",
+    href: "https://www.linkedin.com/in/omkar-kumbhar-dev",
     icon: Linkedin,
   },
   {
     name: "GitHub",
-    href: "https://github.com/omkarkumbhar",
+    href: "https://github.com/Omkarkumbhar47",
     icon: Github,
   },
 ];
@@ -49,9 +49,18 @@ export function Footer() {
               Full Stack Developer passionate about creating scalable web
               applications and solving complex problems.
             </p>
-            <div className="flex items-center gap-2 text-sm text-muted-foreground">
-              <MapPin className="w-4 h-4" />
-              <span>Kolhapur, Maharashtra, India</span>
+            <div className="flex items-start gap-2 text-sm text-muted-foreground">
+              <div className="flex flex-col gap-1">
+                <div className="flex items-center gap-2">
+                  <MapPin className="w-4 h-4" />
+                  <span>Kolhapur, Maharashtra, India</span>
+                </div>
+
+                <div className="flex items-center gap-2">
+                  <MapPin className="w-4 h-4" />
+                  <span>Current: Pune, Maharashtra, India</span>
+                </div>
+              </div>
             </div>
           </motion.div>
 
@@ -144,8 +153,7 @@ export function Footer() {
           className="flex flex-col md:flex-row justify-between items-center gap-4"
         >
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Omkar Kumbhar. All rights
-            reserved.
+            © {new Date().getFullYear()} Omkar Kumbhar. All rights reserved.
           </p>
           <div className="flex items-center gap-1 text-sm text-muted-foreground">
             <span>Made with</span>

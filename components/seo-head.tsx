@@ -13,7 +13,7 @@ export function SEOHead({
   description = "Omkar Kumbhar is a skilled Full Stack Developer from Kolhapur, Maharashtra, India. Expert in React, Next.js, Node.js, TypeScript, and modern web technologies.",
   keywords = "Omkar Kumbhar, Full Stack Developer, React Developer, Next.js Developer, Node.js Developer, JavaScript Developer, Web Developer Kolhapur, Frontend Developer India",
   image = "/og-image.jpg",
-  url = "https://omkarkumbhar.vercel.app",
+  url = "https://omkar-dev-portfolio.vercel.app",
 }: SEOHeadProps) {
   return (
     <Head>

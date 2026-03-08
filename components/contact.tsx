@@ -53,7 +53,7 @@ const contactInfo = [
     icon: Linkedin,
     label: "LinkedIn",
     value: "omkar-kumbhar",
-    href: "https://www.linkedin.com/in/omkar-kumbhar-291168259/",
+    href: "https://www.linkedin.com/in/omkar-kumbhar-dev",
   },
 ];
 

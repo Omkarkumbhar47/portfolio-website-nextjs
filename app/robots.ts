@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/private/",
     },
-    sitemap: "https://omkarkumbhar.vercel.app/sitemap.xml",
+    sitemap: "https://omkar-dev-portfolio.vercel.app/sitemap.xml",
   }
 }

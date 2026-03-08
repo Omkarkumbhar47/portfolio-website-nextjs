@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title:
     "Omkar Kumbhar - Full Stack Developer | React, Next.js, Node.js Expert",
   description:
-    "Omkar Kumbhar is a skilled Full Stack Developer from Kolhapur, Maharashtra, India. Expert in React, Next.js, Node.js, TypeScript, and modern web technologies. Available for freelance projects and full-time opportunities.",
+    "Omkar Kumbhar is a skilled Full Stack Developer from   , Maharashtra, India. Expert in React, Next.js, Node.js, TypeScript, and modern web technologies. Available for freelance projects and full-time opportunities.",
   keywords: [
     "Omkar Kumbhar",
     "Full Stack Developer",
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://omkarkumbhar.vercel.app",
+    url: "https://omkar-dev-portfolio.vercel.app",
     siteName: "Omkar Kumbhar - Full Stack Developer",
     title:
       "Omkar Kumbhar - Full Stack Developer | React, Next.js, Node.js Expert",
@@ -85,7 +85,7 @@ export const metadata: Metadata = {
     creator: "@omkarkumbhar",
   },
   alternates: {
-    canonical: "https://omkarkumbhar.vercel.app",
+    canonical: "https://omkar-dev-portfolio.vercel.app",
   },
   category: "technology",
 };
@@ -131,9 +131,9 @@ export default function RootLayout({
               jobTitle: "Full Stack Developer",
               description:
                 "Skilled Full Stack Developer specializing in React, Next.js, Node.js, and modern web technologies",
-              url: "https://omkarkumbhar.vercel.app",
+              url: "https://omkar-dev-portfolio.vercel.app",
               sameAs: [
-                "https://www.linkedin.com/in/omkar-kumbhar-291168259/",
+                "https://www.linkedin.com/in/omkar-kumbhar-dev",
                 "https://github.com/Omkarkumbhar47",
               ],
               address: {

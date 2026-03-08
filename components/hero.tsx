@@ -92,7 +92,7 @@ export function Hero() {
             </Button>
             <Button variant="outline" size="lg">
               <a
-                href="https://www.linkedin.com/in/omkar-Kumbhar-291168259/"
+                href="https://www.linkedin.com/in/omkar-kumbhar-dev"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"

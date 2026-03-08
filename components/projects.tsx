@@ -3,7 +3,14 @@
 import { motion } from "framer-motion";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Leaf, Calculator, Video, BookOpen, QrCode } from "lucide-react";
+import {
+  Leaf,
+  Calculator,
+  Video,
+  BookOpen,
+  QrCode,
+  Sparkles,
+} from "lucide-react";
 import { Box, User, Globe, Github } from "lucide-react";
 
 const projects = [
@@ -33,7 +40,29 @@ const projects = [
     github: "https://github.com/Omkarkumbhar47/3d_pravin_portfolio",
     live: "https://pravinportfolio-five.vercel.app/",
   },
+  {
+    title: "Developer Portfolio",
+    description:
+      "A high-performance personal portfolio website built with Next.js and TypeScript to showcase projects, experience, and technical skills with responsive design and optimized deployment.",
+    icon: Globe,
+    technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
+    category: "Personal Brand",
+    live: "https://omkar-dev-portfolio.vercel.app",
+    github: "https://github.com/Omkarkumbhar47",
+  },
+  {
+    title: "Animated Agency Landing Page",
+    description:
+      "A modern agency-style landing page built to master advanced animation techniques including smooth scrolling, scroll-triggered animations, and interactive UI transitions.",
+    icon: Sparkles,
+    technologies: ["HTML", "CSS", "JavaScript", "GSAP"],
+    category: "UI Animation",
+    live: "https://omkarkumbhar47.github.io/obys-agency-animation-clone",
+    github: "https://github.com/Omkarkumbhar47/obys-agency-animation-clone",
+  },
 ];
+
+// https://book-inventory-management-system-nine.vercel.app/
 
 export function Projects() {
   return (
